@@ -9,7 +9,7 @@ bg = pygame.image.load("./images/background.png")
 # 绘制加载的图片到荧幕上
 screen.blit(bg, (0, 0))
 
-hero = pygame.image.load("./images/me1.png")
+hero =pygame.image.load("./images/me1.png")
 
 # 绘制加载的图片到荧幕上
 screen.blit(hero, (200, 500))
